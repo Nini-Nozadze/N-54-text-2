@@ -1,0 +1,23 @@
+#box1{
+    width: 350px;
+    height: 160px;
+    color: grey;
+    text-align: center;
+    font-weight: 400;
+}
+
+#box2{
+    width: 350px;
+    height: 160px;
+    color: red;
+    text-align: justify;
+    font-weight: 400;
+    margin-left: 72px;  
+    margin-top: 30px
+}
+
+#p{
+    color: blue;
+    font-weight: 700;
+    text-align: center;
+}
